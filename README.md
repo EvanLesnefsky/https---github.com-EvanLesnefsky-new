@@ -40,4 +40,3 @@ I aim to create an Iron Man-inspired first-person shooter where players navigate
 2. Echo VR (Video Game)
     * Inspiration for aerial combat and movement systems
     * Link: https://www.meta.com/experiences/echo-vr/2215004568539258/
-3. 
