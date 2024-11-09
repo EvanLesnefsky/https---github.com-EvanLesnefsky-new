@@ -12,8 +12,8 @@ I aim to create an Iron Man-inspired first-person shooter where players navigate
     * Estimated Challenge - 3: Basic shooting mechanics are straightforward, but implementing accurate hit detection and weapon variety will take time.
 3. Visual Effects: Particle systems for thrusters, weapon impacts, and explosions
     * Estimated Challenge - 3: Creating polished effects will require iteration and optimization.
-4. GUI Interface: Dynamic heads-up display showing health, thruster power, and weapon status
-    * Estimated Challenge - 4: Creating a responsive, aesthetic UI that matches the Iron Man theme while being functional.
+4. GUI Interface: Dynamic heads-up display showing health and points or enemies killed
+    * Estimated Challenge - 4: Creating a responsive, aesthetic UI while being functional.
 5. Enemy AI: Basic enemy behavior with movement and attack patterns
     * Estimated Challenge - 5: Implementing smart, challenging AI that works in 3D space with flying mechanics.
 6. Level Design: Multiple levels with increasing complexity and objectives
